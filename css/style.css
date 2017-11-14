@@ -1,0 +1,15 @@
+
+
+
+
+
+
+/****** SPRITE ******/
+.sprite { background: url('sprite.png') no-repeat top left; width: 32px; height: 59px;  }
+.sprite.login { background-position: 0 0; height: 29px; }
+.sprite.cart { background-position: -42px 0; height: 30px; }
+.sprite.search { background-position: -84px 0; width: 27px; height: 27px; }
+.sprite.feature-thermometer { background-position: -121px 0; width: 58px; }
+.sprite.feature-cow { background-position: -189px 0; width: 58px; }
+.sprite.feature-leaf { background-position: -257px 0; width: 59px; }
+.sprite.feature-popsicle { background-position: -326px 0; width: 59px; }
